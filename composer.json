@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "cakephp/cakephp-codesniffer": "0.1.*",
+        "phpmd/phpmd": "2.*",
+        "sebastian/phpcpd": "2.*"
+    }
+}
